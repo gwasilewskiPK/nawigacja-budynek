@@ -1,0 +1,194 @@
+Folder PATH listing for volume OS
+Volume serial number is 6A9B-E59C
+C:.
+-   .gitignore
+-   INSTRUKCJA.md
+-   package.json
+-   README.md
+-   struktura.txt
+-   
++¦¦¦.openai
+-       hosting.json
+-       
++¦¦¦dist
+-   -   app-v3.css
+-   -   app.js
+-   -   index.html
+-   -   network-data.js
+-   -   routing.js
+-   -   styles.css
+-   -   university-theme.css
+-   -   
+-   L¦¦¦public
+-       L¦¦¦maps
+-           L¦¦¦v3
+-                   1.png
+-                   10.png
+-                   11.png
+-                   12.png
+-                   13.png
+-                   14.png
+-                   15.png
+-                   16.png
+-                   17.png
+-                   18.png
+-                   2.png
+-                   3.png
+-                   4.png
+-                   5.png
+-                   6.png
+-                   7.png
+-                   8.png
+-                   9.png
+-                   
++¦¦¦outputs
+-       PK-Navigator.zip
+-       
++¦¦¦scripts
+-   -   build-network.mjs
+-   -   routing.test.mjs
+-   -   server.mjs
+-   -   validate-walls.py
+-   -   
+-   L¦¦¦fixtures
+-           walls.json
+-           
+L¦¦¦work
+    -   add-turn-ui.py
+    -   check-walls-short.py
+    -   check-walls.py
+    -   finish-campus.mjs
+    -   finish-files.py
+    -   fix-network.py
+    -   fix2.py
+    -   fix3.py
+    -   import_campus.py
+    -   inspect_sources.py
+    -   integrate-campus.mjs
+    -   package-v3.py
+    -   polish.mjs
+    -   route-layout.py
+    -   routing.test.mjs
+    -   server.mjs
+    -   start-search.mjs
+    -   
+    +¦¦¦pre-v3
+    -   L¦¦¦dist
+    -       -   app.js
+    -       -   campus-data.js
+    -       -   campus.js
+    -       -   data.js
+    -       -   index.html
+    -       -   routing.js
+    -       -   styles.css
+    -       -   university-theme.css
+    -       -   
+    -       L¦¦¦public
+    -           L¦¦¦maps
+    -                   A ca³y_page-0001.jpg
+    -                   A ca³y_page-0002.jpg
+    -                   A ca³y_page-0003.jpg
+    -                   A ca³y_page-0004.jpg
+    -                   A ca³y_page-0005.jpg
+    -                   A ca³y_page-0006.jpg
+    -                   A ca³y_page-0007.jpg
+    -                   A ca³y_page-0008.jpg
+    -                   B--1.jpg
+    -                   B-0.jpg
+    -                   B-1.jpg
+    -                   C--1.jpg
+    -                   C-0.jpg
+    -                   C-1.jpg
+    -                   C-2.jpg
+    -                   C-3.jpg
+    -                   C-4.jpg
+    -                   C-5.jpg
+    -                   D-0.jpg
+    -                   D-1.jpg
+    -                   D-2.jpg
+    -                   E-0.jpg
+    -                   E-1.jpg
+    -                   E-2.jpg
+    -                   F--1.jpg
+    -                   F-0.jpg
+    -                   F-1.jpg
+    -                   F-2.jpg
+    -                   G-0.jpg
+    -                   G-1.jpg
+    -                   G-2.jpg
+    -                   H-0.jpg
+    -                   H-1.jpg
+    -                   H-2.jpg
+    -                   H-3.jpg
+    -                   I-0.jpg
+    -                   I-1.jpg
+    -                   I-2.jpg
+    -                   I-3.jpg
+    -                   
+    +¦¦¦qa
+    -       all.png
+    -       A_-1.png
+    -       A_0.png
+    -       A_1.png
+    -       A_2.png
+    -       A_3.png
+    -       A_4.png
+    -       A_5.png
+    -       A_6.png
+    -       B_-1.png
+    -       B_0.png
+    -       B_1.png
+    -       C_-1.png
+    -       C_0.png
+    -       C_1.png
+    -       C_2.png
+    -       C_3.png
+    -       C_4.png
+    -       C_5.png
+    -       network.json
+    -       wall-hits.json
+    -       walls.json
+    -       
+    +¦¦¦qa-short
+    -       all.png
+    -       A_-1.png
+    -       A_0.png
+    -       A_1.png
+    -       A_2.png
+    -       A_3.png
+    -       A_4.png
+    -       A_5.png
+    -       A_6.png
+    -       B_-1.png
+    -       B_0.png
+    -       B_1.png
+    -       C_-1.png
+    -       C_0.png
+    -       C_1.png
+    -       C_2.png
+    -       C_3.png
+    -       C_4.png
+    -       C_5.png
+    -       network.json
+    -       wall-hits.json
+    -       walls.json
+    -       
+    L¦¦¦source-review
+            maps-0.jpg
+            maps-1.jpg
+            maps-2.jpg
+            maps-3.jpg
+            pdf-inventory.json
+            ppt-jpg-0.png
+            ppt-jpg-1.png
+            ppt-jpg-2.png
+            ppt-jpg-3.png
+            ppt-png-0.png
+            ppt-png-1.png
+            ppt-png-2.png
+            ppt-png-3.png
+            ppt-png-4.png
+            ppt-png-5.png
+            ppt-png-6.png
+            ppt-png-7.png
+            
